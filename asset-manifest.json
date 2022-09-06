@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fake_Facebook/static/css/main.a6829553.css",
+    "main.js": "/Fake_Facebook/static/js/main.7d7d82f1.js",
+    "index.html": "/Fake_Facebook/index.html",
+    "main.a6829553.css.map": "/Fake_Facebook/static/css/main.a6829553.css.map",
+    "main.7d7d82f1.js.map": "/Fake_Facebook/static/js/main.7d7d82f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6829553.css",
+    "static/js/main.7d7d82f1.js"
+  ]
+}
